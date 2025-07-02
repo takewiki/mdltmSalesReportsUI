@@ -1,7 +1,7 @@
 Package: mdltmSalesReportsUI
 Type: Package
 Title: UI Package For DMS mdltmSalesReports Module in R
-Version: 1.0.0
+Version: 1.0.2
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
@@ -12,3 +12,4 @@ LazyData: true
 RoxygenNote: 7.1.1
 Collate: 
     'shipmentAmountDaily.R'
+    'shipmentAmountWeekly.R'
